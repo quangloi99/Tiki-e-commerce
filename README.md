@@ -17,7 +17,10 @@ Crawl from e-commerce Tiki
 ![range_price](https://user-images.githubusercontent.com/96000156/211179598-6c9bbfc7-81bb-4b8e-8bcd-3b7e0ec7485c.png)
 - Correlation of variable
 ![heatmap](https://user-images.githubusercontent.com/96000156/211179713-06850a49-e5b0-467f-be50-350d7f928891.png)
-- Plot Quantity sold with other variable 
+- Correlation Quantity sold with other variable 
+![review_quan](https://user-images.githubusercontent.com/96000156/211186335-1c8b2e25-5bcd-46f5-9b6f-87ca283fa02a.png)
+![rating_avg_quan](https://user-images.githubusercontent.com/96000156/211186355-20eb6940-b8db-4f6b-9ac2-4be9509ef011.png)
+![discount_quan](https://user-images.githubusercontent.com/96000156/211186390-78f462b1-e4ab-48d0-9e7a-1314c674df5a.png)
 - Model
 ## tạo bảng
 Tạo bảng như sau:
