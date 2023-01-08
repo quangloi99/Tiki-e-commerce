@@ -14,7 +14,7 @@ Crawl from e-commerce Tiki
 - Top 15 brand have most quantity sold from Nov - Dec 2022
 ![example](top15.png)
 - Top range price have most quantity sold from Nov-Dec 2022
-![example](range_price.png)
+https://github.com/quangloi99/Tiki-e-commerce/issues/1#issue-1524306734
 - Correlation of variable
 ![example](heatmap.png)
 - Plot Quantity sold with other variable 
