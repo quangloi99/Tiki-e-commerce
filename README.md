@@ -1,4 +1,4 @@
-![bgnew](https://user-images.githubusercontent.com/96000156/211188023-3a77c5b5-1e31-4a34-bbb5-24a26169fed0.png)
+![bg](https://user-images.githubusercontent.com/96000156/211188207-1fa4b9c9-d656-4957-a55f-ded2dcfaa277.png)
 # Behavior of customer on Tiki e-commerce and Brand have most Quantity sold
 # Business problem 
 This app EDA to analyst behaviour and cluster product to help buyer know that this product have quantity sold currently and rank cluster of product. so that they have choose product and suitable segment for business
