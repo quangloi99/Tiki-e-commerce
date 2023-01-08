@@ -12,11 +12,11 @@ Crawl from e-commerce Tiki
 - ** Kmean cluster **
 # Quick glance at the results
 - Top 15 brand have most quantity sold from Nov - Dec 2022
-![example](top15.png)
+![top15](https://user-images.githubusercontent.com/96000156/211179751-d4c6b9d5-8fb2-4fe2-baef-f4cf9d9fb3cc.png)
 - Top range price have most quantity sold from Nov-Dec 2022
 ![range_price](https://user-images.githubusercontent.com/96000156/211179598-6c9bbfc7-81bb-4b8e-8bcd-3b7e0ec7485c.png)
 - Correlation of variable
-![example](heatmap.png)
+![heatmap](https://user-images.githubusercontent.com/96000156/211179713-06850a49-e5b0-467f-be50-350d7f928891.png)
 - Plot Quantity sold with other variable 
 - Model
 ## tạo bảng
