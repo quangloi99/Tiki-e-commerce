@@ -9,7 +9,7 @@ Crawl from e-commerce Tiki
 - Exploratory data analysis 
 - correlation
 - Descriptive Analyst
-- ** Kmean cluster **
+- Kmean cluster 
 # Quick glance at the results
 - Top 15 brand have most quantity sold from Nov - Dec 2022
 ![top15](https://user-images.githubusercontent.com/96000156/211179751-d4c6b9d5-8fb2-4fe2-baef-f4cf9d9fb3cc.png)
