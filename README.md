@@ -23,8 +23,13 @@ Crawl from e-commerce Tiki
 ![rating_avg_quan](https://user-images.githubusercontent.com/96000156/211186355-20eb6940-b8db-4f6b-9ac2-4be9509ef011.png)
 ![discount_quan](https://user-images.githubusercontent.com/96000156/211186390-78f462b1-e4ab-48d0-9e7a-1314c674df5a.png)
 ## About insight
-Run business on Tiki e-commerce , you should improve review, raiting and have many discount campaing to acctract customer. on the online shopping price, discount, brand are are the factors that affect the buying behavior of customers, if your brand does not have much credibility, the price and experience of old buyers are extremely important.
-In a period of fierce competition, along with a global crisis, consumers' shopping behavior will change rapidly to match the current situation.
+- General
+The best-selling products on the e-commerce platform will usually cost not too high from a few hundred thousand to less than 1 million dong, which are popular products. In the electronics industry, high-value products sold often come from reputable brands such as Sony, Toshiba, etc.
+Common products with smaller value are usually remotes, common electronics.
+- Consumer behavior
+There is a strong positive correlation between sales volume and 3 variables: number of reviews, discount rate, vote rate. From there, it can be seen that shoppers prefer high-priced products. That proves in the monthly sales on tiki, as well as the preference for high-reviewed products, followed by high-ranking products. Consumers will be afraid to buy a product that most reviews only from 1, or 2 stars. And easy decision-making with 4.5-star rated products.
+In the current volatile situation, consumers will always prioritize products that maximize price as well as function. Even if it is a familiar brand that has been used for a long time. Sales on the floor must always change, seize opportunities as well as overcome difficulties to conquer buyers.
+- In a period of fierce competition, along with a global crisis, consumers' shopping behavior will change rapidly to match the current situation.
 ## tạo bảng
 Tạo bảng như sau:
 
