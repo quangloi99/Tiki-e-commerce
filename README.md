@@ -28,8 +28,8 @@ The best-selling products on the Tiki e-commerce platform will usually price not
 Common products with smaller value are usually remotes, common electronics.
 - Consumer behavior <br>
 -There is a strong positive correlation between sales volume and 3 variables: number of reviews, discount rate, vote rate. From there, it can be seen that shoppers prefer high-priced products. That proves in the monthly sales on tiki, as well as the preference for high-reviewed products, followed by high-ranking products.<br>
--Buyer will be afraid to buy a product that most reviews only from 1, or 2 stars and easy decision-making with 4.5-star rated products.In the current volatile situation, consumers will always prioritize products that maximize price as well as function. Even if it is a familiar brand that has been used for a long time. Sales on the Tiki-ecommerce must always change, seize opportunities as well as overcome difficulties to conquer buyers.
-- In a period of fierce competition, along with a global crisis, consumers' shopping behavior will change rapidly to match the current situation.
+-Buyer will be afraid to buy a product that most reviews only from 1, or 2 stars and easy decision-making with 4 or 5-star rated products.In the current volatile situation, consumers will always prioritize products that maximize price as well as function. Even if it is a familiar brand that has been used for a long time. Sales on the Tiki-ecommerce must always change, seize opportunities as well as overcome difficulties to conquer buyers.
+
 ## tạo bảng
 Tạo bảng như sau:
 
