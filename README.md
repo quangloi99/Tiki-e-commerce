@@ -22,7 +22,9 @@ Crawl from e-commerce Tiki
 ![review_quan](https://user-images.githubusercontent.com/96000156/211186335-1c8b2e25-5bcd-46f5-9b6f-87ca283fa02a.png)
 ![rating_avg_quan](https://user-images.githubusercontent.com/96000156/211186355-20eb6940-b8db-4f6b-9ac2-4be9509ef011.png)
 ![discount_quan](https://user-images.githubusercontent.com/96000156/211186390-78f462b1-e4ab-48d0-9e7a-1314c674df5a.png)
-- Model
+## About insight
+Run business on Tiki e-commerce , you should improve review, raiting and have many discount campaing to acctract customer. on the online shopping price, discount, brand are are the factors that affect the buying behavior of customers, if your brand does not have much credibility, the price and experience of old buyers are extremely important.
+In a period of fierce competition, along with a global crisis, consumers' shopping behavior will change rapidly to match the current situation.
 ## tạo bảng
 Tạo bảng như sau:
 
