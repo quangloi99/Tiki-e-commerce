@@ -6,7 +6,7 @@ This app EDA to analyst behaviour and cluster product to help buyer know that th
 Crawl from e-commerce Tiki
 
 # Methods
-- API
+- GET API
 - Exploratory data analysis 
 - correlation
 - Descriptive Analyst
