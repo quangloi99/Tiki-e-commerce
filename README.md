@@ -24,19 +24,8 @@ Crawl from e-commerce Tiki
 ![discount_quan](https://user-images.githubusercontent.com/96000156/211186390-78f462b1-e4ab-48d0-9e7a-1314c674df5a.png)
 ## About insight
 - Overview <br>
-The best-selling products on the Tiki e-commerce platform will usually price not high from a few hundred thousand to less than 1 million VND, which are popular products. In the electronics industry, high-value products sold often come from reputable brands such as Sony, Toshiba, etc.
+The best-selling products on the Tiki e-commerce platform will usually have not highly price  from a few hundred thousand to less than 1 million VND, which are popular products. In the electronics industry, high-value products sold often come from reputable brands such as Sony, Toshiba,Samsung, etc.
 Common products with smaller value are usually remotes, common electronics.
 - Consumer behavior <br>
 -There is a strong positive correlation between sales volume and 3 variables: number of reviews, discount rate, vote rate. From there, it can be seen that shoppers prefer high-priced products. That proves in the monthly sales on tiki, as well as the preference for high-reviewed products, followed by high-ranking products.<br>
 -Buyer will be afraid to buy a product that most reviews only from 1, or 2 stars and easy decision-making with 4 or 5-star rated products.In the current volatile situation, consumers will always prioritize products that maximize price as well as function. Even if it is a familiar brand that has been used for a long time. Sales on the Tiki-ecommerce must always change, seize opportunities as well as overcome difficulties to conquer buyers.
-
-## tạo bảng
-Tạo bảng như sau:
-
-|stt| cột|cột 2|
-|--|-----|-----|
-|1| Đây là ô| đay2|
-|A|B|C|
-## Gạch Ngang
----
-***
